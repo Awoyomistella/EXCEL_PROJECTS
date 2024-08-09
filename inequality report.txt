@@ -1,0 +1,55 @@
+For this task, the views were made to represent a subset of the vietnam_wave_1 dataset to allow us determine and compare the variables that has contributed to the inequality in the education sector in Vietnam. The visualization tools used in designing the front-end is Microsoft Excel
+
+
+
+Inequality by province....................................
+
+Generally, Phu Yen and Ben Tre province have the highest educational inequality with 47% with Hung Yen being the least
+
+In the rual area Phu Yen and Hung Yen province were rated higher with 57% inequality 
+
+Dan Nang and Lao Cai province have the highest inequality of about 55% with Hung Yen being the least
+
+-----------------------------------------------------------------------
+
+If Students have study chair and lamp at home........................
+
+Holistically, 22.4% study without proper reading light and 13.2% learn could not afford reading chairs at home
+
+In the rural area 22.7% do not have reading light and 14% could not afford reading chairs at to learn effectively.
+
+The Urban area has 22.3% of student that could not afford proper reading light and 12.5% has no reading chairs at home.
+
+Base on the full insight we got from if students have reading chairs or reading light, we found out that greater numbers of students have chairs and reading lights at home but some parts of the students were not fortunate.
+
+----------------------------------------------------------------------
+
+If Students have school bag, Ruler and Pocket calculator.......
+
+From the analysis collected from the dataset we found that greater percentage of students with school bag, Ruler and Pocket calculator.
+96% has school bags, 94% has ruler and 84% has pocket calculator
+
+Only few of the students are unfortunate to get equiped with the following: school bag, Ruler and Pocket calculator.
+
+--------------------------------------------------------------------------
+
+If teachers have desk and chairs.........................................
+
+From the analysis we found out that 100% of the teachers have desk and chairs in their offices.
+--------------------------------------------------------------------------
+
+If has computer or not.............................................
+
+Analysis shows that both rural and urban area have 44.7% of people equipped have internet access at home but 3% of those with internet access don not have pc to access the available internet.
+
+We have more people in the Urban area with internet access than that of the rural area
+
+--------------------------------------------------------------------------
+
+If school has books and IT facilities...........................
+
+Without filters, there are plenty books in the library and low IT facilities.
+
+The rural area has more books than that of the urban area.
+-------------------------------------------------------------------------
+

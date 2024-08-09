@@ -1,0 +1,87 @@
+For this task, the views and reports were made to represent various crime type committed in Greater Manchester in the review period. The visualization tools used in designing the front-end is Microsoft Excel 
+
+Anti social behavior...............
+
+9.4% of Anti social behavior happend in those spot which is the highest crime count. this location has crime ranging between 137 to 53. 
+
+On or near Parking Area
+On or near Shopping Area
+On or near Sports/Recreation Area
+On or near Petrol Station
+On or near Pedestrian Subway
+On or near Church Street
+On or near Police Station
+On or near A5185
+On or near Supermarket
+On or near Cross Lane
+
+There are very low crime counts in the other crime spot like On or near Brentwood Road, On or near Brereton Grove, and On or near A57 etc. Those mention cities has one Anti social behavior crime each.
+
+-----------------------------------------------------------------------
+Possession of weapon........
+
+Out of 2,809 possession of weapon crime spot these 10 spots have the highest weapon cases. The places are:
+
+On or near Parking Area
+On or near Airport/Airfield
+On or near Shopping Area
+On or near Supermarket
+On or near Petrol Station
+On or near Sports/Recreation Area
+On or near Piccadilly
+On or near Pedestrian Subway
+On or near Nightclub
+On or near International Approach
+
+17% of the crime happend in these spots.
+
+Manchester 053D is one of the highest crime location where more weapons were illegally owned.
+
+
+-------------------------------------------------------------------------
+Public order...................
+
+Base on our data, we see most of these crime type to be very prevalent in the spot like On or near parking area, supermarket, shoping areas etc
+
+Base on the analysis Manchester 055B is the location with the highest count.
+
+-------------------------------------------------------------------------
+
+Robbery crime....................
+
+On or near Parking Area
+On or near Shopping Area
+On or near Supermarket
+On or near Piccadilly
+On or near Nightclub
+On or near Sports/Recreation Area
+On or near Petrol Station
+
+In the dataset the above spots have robbery ranging from 429 to 157 . The other cities has less than 80 to 1 crime per crime spots.
+Manchester 055B is still the top location where these crime happened.
+
+-------------------------------------------------------------------------
+
+Vehicle Crime............
+
+On or near Parking Area has the highest number of vehicle crime with over 1,700 records according to our data. Petrol station come second.
+
+We recorded more vehicle crime in Manchester 054C location than other locations.
+
+
+--------------------------------------------------------------------------
+Note!
+
+Base on the insight from our data we have more crimes coming from; On or near parking spot than any other crime spots while Manchester 053D is one of the location where most crimes are very ramped than the others.
+
+
+
+
+
+
+
+
+
+
+
+
